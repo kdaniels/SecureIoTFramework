@@ -1,0 +1,163 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8a9c770d7069db97bed76776828fe08e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a19519efdd1b388417f9711e2b727b0f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\azure-storage-android-2.0.0.aar\c8114f46311df1dba63100ce03d15984\AndroidManifest.xml:11:1-20:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\824c83f8258a781bfb4bf23e1ab3ef16\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db55b0aebb27f8564c2c100c26246ef8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\315d2c1a28f5dfd2ab65d6e07fb6b841\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0d18bd5363e29c0b7619ef8f77c4ca7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\42ae490611a55aa49ffcd666cf76796f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\27c623b31e2cc886205c554cb58d67e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\128094ccfcf8663c8a141e4b90b14a1a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\61ed736b39e9afd73d2795733078ee76\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\84995941df8f1699eb6a07a3a50725f5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e9c0815cafd9031f51e86eff4e9f23a8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\03b1693b0fce1f62186ef7e4d12d0e11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\91538bd364e17ee936aa9583786dcb52\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\554cde477b5e044dcee79f8f8282669c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c5961fae7a7c63aaf1ba3ff75470f3fd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e629a1e660632810da3fe3bc4799a364\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ca7adfa9bcee8e03a39712a7f7e833b5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26aac52624deb3e14757d605850cbada\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\789e4b5056175ab2c9c706d6918ca3e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\16bc0898146d111dc8e10da4e64a7573\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b36929fb00f2921364d40254947d5a93\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50a4a661b6d05e9a001c4b7b06dc6987\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9c07b46054ddac11106546d6bff84a21\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c4bc6e9a9d6bc1b5588ea57dcb721b8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f74e165ba84962a2c893aa1832593009\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\efaf643c15cf38b4fd4f6dd157c87957\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\azure-storage-android-2.0.0.aar\c8114f46311df1dba63100ce03d15984\AndroidManifest.xml:18:5-67
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\azure-storage-android-2.0.0.aar\c8114f46311df1dba63100ce03d15984\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:8:5-21:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c5961fae7a7c63aaf1ba3ff75470f3fd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c5961fae7a7c63aaf1ba3ff75470f3fd\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e629a1e660632810da3fe3bc4799a364\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e629a1e660632810da3fe3bc4799a364\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c5961fae7a7c63aaf1ba3ff75470f3fd\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.microsoft.azure.secureIoTFramework.MainActivity
+ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8a9c770d7069db97bed76776828fe08e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\8a9c770d7069db97bed76776828fe08e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a19519efdd1b388417f9711e2b727b0f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\a19519efdd1b388417f9711e2b727b0f\AndroidManifest.xml:20:5-43
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\azure-storage-android-2.0.0.aar\c8114f46311df1dba63100ce03d15984\AndroidManifest.xml:14:38-16:41
+MERGED from [com.microsoft.azure.android:azure-storage-android:2.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\azure-storage-android-2.0.0.aar\c8114f46311df1dba63100ce03d15984\AndroidManifest.xml:14:38-16:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\824c83f8258a781bfb4bf23e1ab3ef16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\824c83f8258a781bfb4bf23e1ab3ef16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db55b0aebb27f8564c2c100c26246ef8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\db55b0aebb27f8564c2c100c26246ef8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\315d2c1a28f5dfd2ab65d6e07fb6b841\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\315d2c1a28f5dfd2ab65d6e07fb6b841\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0d18bd5363e29c0b7619ef8f77c4ca7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\0d18bd5363e29c0b7619ef8f77c4ca7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\42ae490611a55aa49ffcd666cf76796f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\42ae490611a55aa49ffcd666cf76796f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\27c623b31e2cc886205c554cb58d67e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\27c623b31e2cc886205c554cb58d67e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\128094ccfcf8663c8a141e4b90b14a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\128094ccfcf8663c8a141e4b90b14a1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\61ed736b39e9afd73d2795733078ee76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\61ed736b39e9afd73d2795733078ee76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\84995941df8f1699eb6a07a3a50725f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\84995941df8f1699eb6a07a3a50725f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e9c0815cafd9031f51e86eff4e9f23a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\e9c0815cafd9031f51e86eff4e9f23a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\03b1693b0fce1f62186ef7e4d12d0e11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\03b1693b0fce1f62186ef7e4d12d0e11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\91538bd364e17ee936aa9583786dcb52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\91538bd364e17ee936aa9583786dcb52\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\554cde477b5e044dcee79f8f8282669c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\554cde477b5e044dcee79f8f8282669c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c5961fae7a7c63aaf1ba3ff75470f3fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c5961fae7a7c63aaf1ba3ff75470f3fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e629a1e660632810da3fe3bc4799a364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\e629a1e660632810da3fe3bc4799a364\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ca7adfa9bcee8e03a39712a7f7e833b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\ca7adfa9bcee8e03a39712a7f7e833b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26aac52624deb3e14757d605850cbada\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\26aac52624deb3e14757d605850cbada\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\789e4b5056175ab2c9c706d6918ca3e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\789e4b5056175ab2c9c706d6918ca3e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\16bc0898146d111dc8e10da4e64a7573\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\16bc0898146d111dc8e10da4e64a7573\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b36929fb00f2921364d40254947d5a93\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b36929fb00f2921364d40254947d5a93\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50a4a661b6d05e9a001c4b7b06dc6987\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\50a4a661b6d05e9a001c4b7b06dc6987\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9c07b46054ddac11106546d6bff84a21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\9c07b46054ddac11106546d6bff84a21\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c4bc6e9a9d6bc1b5588ea57dcb721b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\3c4bc6e9a9d6bc1b5588ea57dcb721b8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f74e165ba84962a2c893aa1832593009\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\f74e165ba84962a2c893aa1832593009\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\efaf643c15cf38b4fd4f6dd157c87957\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\kylea\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\efaf643c15cf38b4fd4f6dd157c87957\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\kylea\Desktop\javasamples\iot-hub\Samples\device\AndroidSample\app\src\main\AndroidManifest.xml

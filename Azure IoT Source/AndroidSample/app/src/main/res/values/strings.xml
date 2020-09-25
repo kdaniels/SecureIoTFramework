@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Secure Framework Device</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+</resources>
