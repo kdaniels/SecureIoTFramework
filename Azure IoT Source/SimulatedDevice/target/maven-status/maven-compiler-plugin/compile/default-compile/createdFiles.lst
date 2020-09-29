@@ -1,0 +1,6 @@
+com\microsoft\docs\iothub\samples\SimulatedDevice$MessageSender.class
+com\microsoft\docs\iothub\samples\SimulatedDevice$TelemetryDataPoint.class
+com\microsoft\docs\iothub\samples\SimulatedDevice$1.class
+com\microsoft\docs\iothub\samples\SimulatedDevice$AppMessageCallback.class
+com\microsoft\docs\iothub\samples\SimulatedDevice$EventCallback.class
+com\microsoft\docs\iothub\samples\SimulatedDevice.class
