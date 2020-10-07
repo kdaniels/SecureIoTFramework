@@ -6,4 +6,4 @@ The scheme involves Key Establishment, Key Persistence and Shared Decryption
 - Symmetric architecture for an end-to-end privacy solution where data is exchanged in a safe and non-deterministic way (so that data cannot be seen or inferred) across home IoT networks
 - The scheme needs to be lightweight, transferable, and non-significantly impact performance
 
-![Project Contents](https://i.ibb.co/DLv94Pz/documentation-Headings.jpg)
+![Project Contents](https://github.com/kdaniels/SecureIoTFramework/blob/master/readmeImage.png)
